@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"/Users/ethanwaldo/team5/Unreal-LayerSample 5.3/Intermediate/Source/LayerSample.Build.cs",
+		"/Users/ethanwaldo/team5/Unreal-LayerSample 5.3/Intermediate/Source/LayerSample.Target.cs",
+		"/Users/ethanwaldo/team5/Unreal-LayerSample 5.3/Intermediate/Source/LayerSampleClient.Target.cs",
+		"/Users/ethanwaldo/team5/Unreal-LayerSample 5.3/Intermediate/Source/LayerSampleEditor.Target.cs",
+		"/Users/ethanwaldo/team5/Unreal-LayerSample 5.3/Intermediate/Source/LayerSampleServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
